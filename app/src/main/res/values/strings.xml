@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Ludo</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="btJouer">Joueur</string>
+    <string name="btNouveauJeu">Nouveau Jeu</string>
+    <string name="btAtout">Atout</string>
+    <string name="btJoueur1">Joueur 1</string>
+    <string name="btJoueur2">Joueur 2</string>
+    <string name="btAucunJoueur">Aucun Joueur</string>
+    <string name="txtCarte1">Carte du joueur 1</string>
+    <string name="txtCarte2">Carte du joueur 2</string>
+    <string name="txtJ1">As de pique : 10 points</string>
+    <string name="txtJ2">7 de coeur : 7 points</string>
+    <string name="txtScore1">0 point</string>
+    <string name="txtScore2">0 point</string>
+    <string name="txtResultat">Qui va gagner les points ?</string>
+    <string name="edtTotalPoints">Total ?</string>
+    <string name="txtReponses">Tes réponses correctes</string>
+    <string name="txtNbRepCorrectes">0 /26</string>
+    <string name="menu_parametres">Paramètres</string>
+    <string name="menu_chercher">Chercher</string>
+    <string name="menu_compter">Compter</string>
+    <string name="menu_bataille">Bataille</string>
+    //Pendue
+    <string name="txtLettreMots">Lettre ou mot</string>
+    <string name="txtRebu">Lettres au Rebut :</string>
+    <string name="txtBtnRestart">Relancer une partie</string>
+    <string name="txtTvWin">Vous avez gagné</string>
+
+    <!-- préférences-->
+    <string name="prefs_mes_parametres">Mes paramètres</string>
+    <string name="prefs_theme">Thème vert et rose</string>
+    <string name="prefs_nom_joueur">Nom joueur</string>
+    <string name="prefs_non_renseigne">Non renseigné</string>
+    <string name="prefs_mes_scores">Mes scores</string>
+
+    <!-- main-->
+    <string name="txtSalut">Salut</string>
+    <string name="txtPremiereUtilisation">Tu peux mettre à jour tes paramètres.</string>
+</resources>

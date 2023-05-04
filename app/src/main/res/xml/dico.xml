@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dico xmlns:android="http://schemas.android.com/apk/res/android">
+    <theme nom="pre">
+        <mot contenu="rose" points="3"></mot>
+        <mot contenu="crocus" points="7"></mot>
+        <mot contenu="dahlia" points="9"></mot>
+        <mot contenu="ixora" points="5"></mot>
+    </theme>
+    <theme nom="animaux">
+        <mot contenu="chien" points="3"></mot>
+        <mot contenu="chat" points="2"></mot>
+        <mot contenu="leopard" points="5"></mot>
+        <mot contenu="perruche" points="6"></mot>
+    </theme>
+</dico>
